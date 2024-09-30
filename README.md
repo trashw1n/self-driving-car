@@ -10,6 +10,3 @@ JSON etc.\
 \
 run index.html; press the save icon to 'save' the current state of best performing car;\
 press the delete icon to 'delete' the currently saved state/brain.\
- \
- \
-Finished this project before learning git so i pushed the entire project at once. 
